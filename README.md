@@ -13,7 +13,7 @@ Some myths reflect reality. Others are empty stereotypes. Businesses need to dis
 * Moscow and St. Petersburg prefer different music genres. Pop music is more often listened to in Moscow, while Russian rap is more popular in St. Petersburg.
 
 **Data**
-The data is stored in the file `yandex_music_project.csv`. On the platform, it is located at `/datasets/yandex_music_project.csv`. You can download the dataset to work with it outside the project here.
+The data is stored in the file `yandex_music_data.csv`. On the platform, it is located at `/datasets/yandex_music_data.csv`. You can download the dataset to work with it outside the project here.
 
 **Column descriptions:**
 
